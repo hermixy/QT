@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+   <head>
+       <meta charset="utf-8">
+   </head>
+   <body style="height: 100%; margin: 0">
+       <div id="container" style="height: 100%"></div>
+       <script type="text/javascript" src="dist\echarts.js"></script>
+       <script type="text/javascript" src="dist\extension\dataTool.min.js"></script>
+       <script type="text/javascript" src="dist\extension\bmap.min.js"></script>
+       <script type="text/javascript">
+var dom = document.getElementById("container");
+var myChart = echarts.init(dom);
+            var option = {
+                title : {
+                    text: '',
+                    subtext: ''
+                },
+                tooltip : {
+                    trigger: 'axis'
+                },
+
+                dataZoom: [{
+                     type: 'slider',    //支持鼠标滚轮缩放
+                     start: 0,            //默认数据初始缩放范围为10%到90%
+                     end: 100
+                    },
+                    {
+                     type: 'inside',    //支持单独的滑动条缩放
+                     start: 0,            //默认数据初始缩放范围为10%到90%
+                     end: 100
+                    }
+                ],
+
+                legend: {
+                    data:['温度（℃）']
+                },
+                toolbox: {
+                    show : true,
+                    feature : {
+                        mark : {show: true},
+                        dataView : {show: true, readOnly: false},
+                        magicType : {show: true, type: ['line', 'bar']},
+                        restore : {show: true},
+                        saveAsImage : {show: true}
+                        }
+                },
+                calculable : true,
+                xAxis : [{
+                    type : 'category',
+                    boundaryGap : false,
+                    data:echarttest.getXdata()
+                }],
+                yAxis : [{
+                    type : 'value',
+                    axisLabel : {
+                        formatter: '{value} °C'
+                    }
+                }],
+                series : [{
+                    name:'温度（℃）',
+                    type:'line',
+                    //data:echarttest.GetMaxValue()
+                    data:echarttest.getYdata()
+                }]
+            };
+
+setInterval(function() {
+
+    myChart.setOption({
+        title : {
+            text: echarttest.getTitle(),
+            subtext: echarttest.getSubTitle()
+        },
+        series: [{
+            data: echarttest.getYdata()
+        }],
+        xAxis: [{
+            data: echarttest.getXdata()
+        }]
+    });
+}, 1000);
+if (option && typeof option === "object") {
+    myChart.setOption(option, true);
+}
+       </script>
+   </body>
+</html>

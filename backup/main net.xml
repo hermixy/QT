@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scada>
+    <scenes Host="2">
+        <scene Name="线路101" Width="1000" Height="600" PosX="0" PosY="0" Id="1">
+            <BackColor g="0" r="0" b="0"/>
+            <item Type="10" FontStrikeOut="0" StopX="-14" StopY="216" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="-92" FontSize="12" StartY="180" AutoTime="0" FontItalic="0" Link="0" Text="10KV I" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1039" StopY="584" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="986" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="2" Text="上一页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1099" StopY="584" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="1046" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="3" Text="下一页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="982" StopY="587" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="942" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="2" Text="主页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="716" StartX="686" StopY="347" Z="9" StartY="347" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="0" r="0" b="127"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1016" StartX="986" StopY="547" Z="9" StartY="547" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="0" r="0" b="127"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="372" StartX="342" StopY="536" Z="9" StartY="536" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="0" r="0" b="127"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="65" StartX="35" StopY="315" Z="9" StartY="315" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="0" r="0" b="127"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="101" StopY="132" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="7" StartX="22" FontSize="12" StartY="87" AutoTime="0" FontItalic="0" Link="0" Text="A    B    C" FontFamily="" LineWidth="2" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="405" StopY="317" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="7" StartX="326" FontSize="12" StartY="272" AutoTime="0" FontItalic="0" Link="0" Text="A    B    C" FontFamily="" LineWidth="2" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="746" StopY="167" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="7" StartX="667" FontSize="12" StartY="122" AutoTime="0" FontItalic="0" Link="0" Text="A    B    C" FontFamily="" LineWidth="2" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1072" StopY="352" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="7" StartX="993" FontSize="12" StartY="307" AutoTime="0" FontItalic="0" Link="0" Text="A    B    C" FontFamily="" LineWidth="2" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="702" StartX="702" StopY="342" Z="5" StartY="203" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="0" r="0" b="127"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="50" StartX="50" StopY="310" Z="5" StartY="171" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="0" r="0" b="127"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="358" StartX="358" StopY="531" Z="5" StartY="392" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="0" r="0" b="127"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1000" StartX="1000" StopY="542" Z="5" StartY="403" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="0" r="0" b="127"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="620" StopY="86" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="1" Z="2" StartX="363" FontSize="20" StartY="49" AutoTime="0" FontItalic="0" Link="2" Text="线路101监控画面" FontFamily="黑体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1078" StartX="998" StopY="417" Z="2" StartY="417" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1078" StartX="998" StopY="432" Z="2" StartY="432" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1079" StartX="999" StopY="402" Z="2" StartY="402" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-26" StartX="-26" StopY="218" Z="1" StartY="148" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="1" Js="故障指示器(报警).js" AutoTime="10000" StopX="38" StartX="12" StopY="159" Z="1" StartY="133" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="1">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="1" Js="故障指示器(报警).js" AutoTime="5000" StopX="68" StartX="42" StopY="160" Z="1" StartY="134" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="2">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="1" Js="故障指示器.js" AutoTime="0" StopX="98" StartX="72" StopY="160" Z="1" StartY="134" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="3">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="372" StartX="346" StopY="342" Z="1" StartY="316" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="402" StartX="376" StopY="342" Z="1" StartY="316" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="342" StartX="316" StopY="342" Z="1" StartY="316" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="713" StartX="687" StopY="192" Z="1" StartY="166" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="743" StartX="717" StopY="192" Z="1" StartY="166" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="683" StartX="657" StopY="192" Z="1" StartY="166" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1041" StartX="1015" StopY="377" Z="1" StartY="351" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1071" StartX="1045" StopY="377" Z="1" StartY="351" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1011" StartX="985" StopY="377" Z="1" StartY="351" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="49" StartX="-26" StopY="185" Z="1" StartY="185" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="49" StartX="-26" StopY="200" Z="1" StartY="200" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="50" StartX="-26" StopY="170" Z="1" StartY="170" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="38" StartX="12" StopY="145" Z="0" StartY="119" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="68" StartX="42" StopY="145" Z="0" StartY="119" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="98" StartX="72" StopY="145" Z="0" StartY="119" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="342" StartX="316" StopY="327" Z="0" StartY="301" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="372" StartX="346" StopY="327" Z="0" StartY="301" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="402" StartX="376" StopY="327" Z="0" StartY="301" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="683" StartX="657" StopY="177" Z="0" StartY="151" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="713" StartX="687" StopY="177" Z="0" StartY="151" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="743" StartX="717" StopY="177" Z="0" StartY="151" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1011" StartX="985" StopY="362" Z="0" StartY="336" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1041" StartX="1015" StopY="362" Z="0" StartY="336" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1071" StartX="1045" StopY="362" Z="0" StartY="336" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="357" StartX="51" StopY="391" Z="-1" StartY="170" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="357" StartX="51" StopY="422" Z="-2" StartY="201" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1000" StartX="704" StopY="401" Z="-3" StartY="203" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="357" StartX="51" StopY="407" Z="-3" StartY="186" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="998" StartX="705" StopY="432" Z="-5" StartY="239" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="998" StartX="704" StopY="417" Z="-6" StartY="218" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="701" StartX="359" StopY="203" Z="-7" StartY="393" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="702" StartX="358" StopY="238" Z="-8" StartY="423" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="703" StartX="358" StopY="220" Z="-10" StartY="408" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="3" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+        </scene>
+        <scene Name="主接线图" Width="1000" Height="600" PosX="0" PosY="0" Id="2">
+            <BackColor g="0" r="0" b="0"/>
+            <item Type="10" FontStrikeOut="0" StopX="372" StopY="530" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="294" FontSize="12" StartY="494" AutoTime="0" FontItalic="0" Link="3" Text="线路102" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="669" StopY="530" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="591" FontSize="12" StartY="494" AutoTime="0" FontItalic="0" Link="4" Text="线路103" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="805" StopY="529" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="727" FontSize="12" StartY="493" AutoTime="0" FontItalic="0" Link="5" Text="线路104" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="240" StopY="530" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="162" FontSize="12" StartY="494" AutoTime="0" FontItalic="0" Link="1" Text="线路101" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="194" StopY="322" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="116" FontSize="12" StartY="286" AutoTime="0" FontItalic="0" Link="0" Text="10KV I" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="860" StopY="325" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="782" FontSize="12" StartY="289" AutoTime="0" FontItalic="0" Link="0" Text="10KV II" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="734" StopY="162" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="656" FontSize="12" StartY="126" AutoTime="0" FontItalic="0" Link="0" Text="35KV II" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="314" StopY="160" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="236" FontSize="12" StartY="124" AutoTime="0" FontItalic="0" Link="0" Text="35KV I" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="535.5290233785236" StartX="535.5290233785236" StopY="350.3464394161146" Z="34" StartY="312.9564394161146" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="407" StartX="407" StopY="350" Z="34" StartY="312.61" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="800" StartX="520" StopY="310" Z="27" StartY="310" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="420" StartX="141.78" StopY="310" Z="27" StartY="310" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1039" StopY="584" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="986" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="5" Text="上一页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1099" StopY="584" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="1046" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="1" Text="下一页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="262.02" StartX="262.02" StopY="209.48" Z="17" StartY="150" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="262.0185534765383" StartX="262.0185534765383" StopY="307.4925016664597" Z="17" StartY="287.4925016664597" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="683.47" StartX="683.47" StopY="212.01" Z="17" StartY="150" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="683.4716784765383" StartX="683.4716784765383" StopY="310.0237516664597" Z="17" StartY="290.0237516664597" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="278.648125" StartX="244.008125" StopY="272.828125" Z="16" StartY="252.828125" LineStyle="1" Link="0" AutoValue="0" Type="1" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="261.328125" StartX="244.008125" StopY="252.828125" Z="12" StartY="272.828125" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="278.648125" StartX="261.328125" StopY="272.828125" Z="13" StartY="252.828125" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="278.648125" StartX="244.008125" StopY="272.828125" Z="14" StartY="272.828125" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="700.1012499999999" StartX="665.4612500000001" StopY="275.359375" Z="16" StartY="255.359375" LineStyle="1" Link="0" AutoValue="0" Type="1" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="682.78125" StartX="665.4612500000001" StopY="255.359375" Z="12" StartY="275.359375" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="700.1012499999999" StartX="682.78125" StopY="275.359375" Z="13" StartY="255.359375" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="700.1012499999999" StartX="665.4612500000001" StopY="275.359375" Z="14" StartY="275.359375" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+            </item>
+            <item ServiceId="1" Js="" AutoTime="1000" StopX="278.648125" StartX="244.008125" StopY="251.828125" Z="15" StartY="221.828125" LineStyle="1" Link="0" AutoValue="0" Type="1" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="261.328125" StartX="244.008125" StopY="231.828125" Z="12" StartY="221.828125" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="261.328125" StartX="278.648125" StopY="231.828125" Z="13" StartY="221.828125" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="261.328125" StartX="261.328125" StopY="251.828125" Z="14" StartY="231.828125" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="700.1012499999999" StartX="665.4612500000001" StopY="254.359375" Z="15" StartY="224.359375" LineStyle="1" Link="0" AutoValue="0" Type="1" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="682.78125" StartX="665.4612500000001" StopY="234.359375" Z="12" StartY="224.359375" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="682.78125" StartX="700.1012499999999" StopY="234.359375" Z="13" StartY="224.359375" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="682.78125" StartX="682.78125" StopY="254.359375" Z="14" StartY="234.359375" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="286.328125" StartX="236.328125" StopY="285.828125" Z="6" StartY="235.828125" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="0" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="707.78125" StartX="657.78125" StopY="288.359375" Z="6" StartY="238.359375" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="0" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="286.328125" StartX="236.328125" StopY="259.828125" Z="5" StartY="209.828125" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="707.78125" StartX="657.78125" StopY="262.359375" Z="5" StartY="212.359375" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="535.0879007827042" StartX="485.0879007827042" StopY="351.491609640764" Z="3" StartY="351.491609640764" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="457.0879007827042" StartX="407.0879007827042" StopY="351.491609640764" Z="3" StartY="351.491609640764" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="491.2632402404132" StartX="457.8547151172106" StopY="339.3079378777162" Z="3" StartY="352.0713038957686" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="619" StopY="76" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="1" Z="2" StartX="362" FontSize="20" StartY="39" AutoTime="0" FontItalic="0" Link="0" Text="10KV线路主监控图" FontFamily="黑体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="336" StartX="316" StopY="482" Z="1" StartY="314" LineStyle="1" Link="3" AutoValue="0" Type="1" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="326.02" StartX="326.02" StopY="481" Z="17" StartY="314" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="326" StartX="316" StopY="482" Z="35" StartY="472" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="326" StartX="336" StopY="482" Z="36" StartY="472" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="631" StartX="611" StopY="480" Z="1" StartY="312" LineStyle="1" Link="4" AutoValue="0" Type="1" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="621.02" StartX="621.02" StopY="479" Z="17" StartY="312" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="621" StartX="611" StopY="480" Z="35" StartY="470" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="621" StartX="631" StopY="480" Z="36" StartY="470" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="203" StartX="183" StopY="482" Z="1" StartY="314" LineStyle="1" Link="1" AutoValue="0" Type="1" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="193.02" StartX="193.02" StopY="481" Z="17" StartY="314" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="193" StartX="183" StopY="482" Z="35" StartY="472" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="193" StartX="203" StopY="482" Z="36" StartY="472" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="766" StartX="746" StopY="482" Z="1" StartY="314" LineStyle="1" Link="5" AutoValue="0" Type="1" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="756.02" StartX="756.02" StopY="481" Z="17" StartY="314" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="756" StartX="746" StopY="482" Z="35" StartY="472" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+                <item ServiceId="0" Js="" AutoTime="0" StopX="756" StartX="766" StopY="482" Z="36" StartY="472" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                    <LineColor g="255" r="255" b="255"/>
+                    <BackColor g="0" r="0" a="255" b="0"/>
+                </item>
+            </item>
+        </scene>
+        <scene Name="线路102" Width="1000" Height="600" PosX="0" PosY="0" Id="3">
+            <BackColor g="0" r="0" b="0"/>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="728" StartX="1090" StopY="237" Z="56" StartY="360" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="310" StartX="35" StopY="347" Z="52" StartY="303" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="35" StartX="35" StopY="302" Z="50" StartY="176" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="88" StopY="175" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="10" FontSize="12" StartY="139" AutoTime="0" FontItalic="0" Link="0" Text="10KV I" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="100" StartX="-42.22" StopY="172" Z="27" StartY="172" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1039" StopY="584" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="986" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="1" Text="上一页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="982" StopY="587" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="942" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="2" Text="主页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1099" StopY="584" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="1046" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="4" Text="下一页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1093.57" StopY="324.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="1081.57" FontSize="12" StartY="307.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1047.38" StopY="323.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="1035.38" FontSize="12" StartY="306.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1070.17" StopY="324.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="1058.17" FontSize="12" StartY="307.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="829.5699999999999" StopY="584.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="817.5699999999999" FontSize="12" StartY="567.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="783.38" StopY="583.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="771.38" FontSize="12" StartY="566.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="806.1700000000001" StopY="584.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="794.1700000000001" FontSize="12" StartY="567.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="736.5699999999999" StopY="318.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="724.5699999999999" FontSize="12" StartY="301.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="690.38" StopY="317.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="678.38" FontSize="12" StartY="300.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="713.1700000000001" StopY="318.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="701.1700000000001" FontSize="12" StartY="301.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="620" StopY="86" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="1" Z="2" StartX="363" FontSize="20" StartY="49" AutoTime="0" FontItalic="0" Link="2" Text="线路102监控画面" FontFamily="黑体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="836.5699999999999" StopY="245.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="824.5699999999999" FontSize="12" StartY="228.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="790.38" StopY="244.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="778.38" FontSize="12" StartY="227.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="813.1700000000001" StopY="245.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="801.1700000000001" FontSize="12" StartY="228.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="699.5699999999999" StopY="232.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="687.5699999999999" FontSize="12" StartY="215.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="653.38" StopY="231.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="641.38" FontSize="12" StartY="214.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="676.1700000000001" StopY="232.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="664.1700000000001" FontSize="12" StartY="215.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="377.57" StopY="315.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="365.57" FontSize="12" StartY="298.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="331.38" StopY="314.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="319.38" FontSize="12" StartY="297.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="354.17" StopY="315.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="342.17" FontSize="12" StartY="298.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="231.57" StopY="555.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="219.57" FontSize="12" StartY="538.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="185.38" StopY="554.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="173.38" FontSize="12" StartY="537.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="208.17" StopY="555.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="196.17" FontSize="12" StartY="538.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="352.57" StopY="408.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="340.57" FontSize="12" StartY="391.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="306.38" StopY="407.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="294.38" FontSize="12" StartY="390.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="329.17" StopY="408.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="317.17" FontSize="12" StartY="391.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="119.57" StopY="294.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="107.57" FontSize="12" StartY="277.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="97.16999999999996" StopY="294.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="85.16999999999996" FontSize="12" StartY="277.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="73.38" StopY="293.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="61.38" FontSize="12" StartY="276.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1095.191922148616" StartX="1075.191922148616" StopY="324.4602692617129" Z="1" StartY="304.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1071.788014926651" StartX="1051.788014926651" StopY="324.1523231140554" Z="1" StartY="304.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1049" StartX="1029" StopY="323.844376966398" Z="1" StartY="303.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="831.1919221486157" StartX="811.1919221486157" StopY="584.4602692617129" Z="1" StartY="564.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="807.7880149266505" StartX="787.7880149266505" StopY="584.1523231140554" Z="1" StartY="564.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="785" StartX="765" StopY="583.8443769663979" Z="1" StartY="563.8443769663979" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="738.1919221486157" StartX="718.1919221486157" StopY="318.4602692617129" Z="1" StartY="298.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="714.7880149266505" StartX="694.7880149266505" StopY="318.1523231140554" Z="1" StartY="298.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="692" StartX="672" StopY="317.844376966398" Z="1" StartY="297.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="838.1919221486157" StartX="818.1919221486157" StopY="245.4602692617129" Z="1" StartY="225.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="814.7880149266505" StartX="794.7880149266505" StopY="245.1523231140554" Z="1" StartY="225.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="792" StartX="772" StopY="244.844376966398" Z="1" StartY="224.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="701.1919221486157" StartX="681.1919221486157" StopY="232.4602692617129" Z="1" StartY="212.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="677.7880149266505" StartX="657.7880149266505" StopY="232.1523231140554" Z="1" StartY="212.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="655" StartX="635" StopY="231.844376966398" Z="1" StartY="211.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="379.1919221486158" StartX="359.1919221486158" StopY="315.4602692617129" Z="1" StartY="295.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="355.7880149266505" StartX="335.7880149266505" StopY="315.1523231140554" Z="1" StartY="295.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="333" StartX="313" StopY="314.844376966398" Z="1" StartY="294.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="233.1919221486158" StartX="213.1919221486158" StopY="555.4602692617129" Z="1" StartY="535.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="209.7880149266505" StartX="189.7880149266505" StopY="555.1523231140554" Z="1" StartY="535.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="187" StartX="167" StopY="554.8443769663979" Z="1" StartY="534.8443769663979" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="354.1919221486158" StartX="334.1919221486158" StopY="408.4602692617129" Z="1" StartY="388.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="330.7880149266505" StartX="310.7880149266505" StopY="408.1523231140554" Z="1" StartY="388.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="308" StartX="288" StopY="407.844376966398" Z="1" StartY="387.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="1" Js="故障指示器.js" AutoTime="0" StopX="121.1919221486158" StartX="101.1919221486158" StopY="294.4602692617128" Z="1" StartY="274.4602692617128" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="3">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="1" Js="故障指示器.js" AutoTime="0" StopX="97.78801492665048" StartX="77.78801492665048" StopY="294.1523231140554" Z="1" StartY="274.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="2">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="1" Js="故障指示器.js" AutoTime="0" StopX="75" StartX="55" StopY="293.8443769663979" Z="1" StartY="273.8443769663979" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="1">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1071.788014926651" StartX="1051.788014926651" StopY="312.3079461476575" Z="0" StartY="292.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1049" StartX="1029" StopY="312" Z="0" StartY="292" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1095.191922148616" StartX="1075.191922148616" StopY="312.6158922953149" Z="0" StartY="292.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="807.7880149266505" StartX="787.7880149266505" StopY="572.3079461476575" Z="0" StartY="552.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="785" StartX="765" StopY="572" Z="0" StartY="552" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="831.1919221486157" StartX="811.1919221486157" StopY="572.6158922953149" Z="0" StartY="552.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="714.7880149266505" StartX="694.7880149266505" StopY="306.3079461476575" Z="0" StartY="286.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="692" StartX="672" StopY="306" Z="0" StartY="286" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="738.1919221486157" StartX="718.1919221486157" StopY="306.6158922953149" Z="0" StartY="286.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="814.7880149266505" StartX="794.7880149266505" StopY="233.3079461476575" Z="0" StartY="213.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="792" StartX="772" StopY="233" Z="0" StartY="213" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="838.1919221486157" StartX="818.1919221486157" StopY="233.6158922953149" Z="0" StartY="213.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="677.7880149266505" StartX="657.7880149266505" StopY="220.3079461476575" Z="0" StartY="200.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="655" StartX="635" StopY="220" Z="0" StartY="200" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="701.1919221486157" StartX="681.1919221486157" StopY="220.6158922953149" Z="0" StartY="200.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="355.7880149266505" StartX="335.7880149266505" StopY="303.3079461476575" Z="0" StartY="283.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="333" StartX="313" StopY="303" Z="0" StartY="283" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="379.1919221486158" StartX="359.1919221486158" StopY="303.6158922953149" Z="0" StartY="283.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="209.7880149266505" StartX="189.7880149266505" StopY="543.3079461476575" Z="0" StartY="523.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="187" StartX="167" StopY="543" Z="0" StartY="523" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="233.1919221486158" StartX="213.1919221486158" StopY="543.6158922953149" Z="0" StartY="523.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="330.7880149266505" StartX="310.7880149266505" StopY="396.3079461476575" Z="0" StartY="376.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="308" StartX="288" StopY="396" Z="0" StartY="376" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="354.1919221486158" StartX="334.1919221486158" StopY="396.6158922953149" Z="0" StartY="376.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="121.1919221486158" StartX="101.1919221486158" StopY="282.6158922953149" Z="0" StartY="262.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="97.78801492665048" StartX="77.78801492665048" StopY="282.3079461476575" Z="0" StartY="262.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="75" StartX="55" StopY="282" Z="0" StartY="262" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="311" StartX="150" StopY="345" Z="-4" StartY="531" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="308" StartX="728" StopY="347" Z="-5" StartY="236" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="728" StartX="857" StopY="236" Z="-6" StartY="585" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+        </scene>
+        <scene Name="线路103" Width="1000" Height="600" PosX="0" PosY="0" Id="4">
+            <BackColor g="0" r="0" b="0"/>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="461" StartX="461" StopY="333" Z="50" StartY="207" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="514" StopY="206" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="436" FontSize="12" StartY="170" AutoTime="0" FontItalic="0" Link="0" Text="10KV II" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="526" StartX="383.78" StopY="203" Z="27" StartY="203" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1039" StopY="584" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="986" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="3" Text="上一页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1099" StopY="584" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="1046" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="5" Text="下一页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="982" StopY="587" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="942" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="2" Text="主页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="192" StartX="-46" StopY="355" Z="4" StartY="265" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="192" StartX="377" StopY="356" Z="3" StartY="552" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1048.57" StopY="314.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="1036.57" FontSize="12" StartY="297.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1002.38" StopY="313.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="990.38" FontSize="12" StartY="296.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1025.17" StopY="314.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="1013.17" FontSize="12" StartY="297.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="750.5699999999999" StopY="431.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="738.5699999999999" FontSize="12" StartY="414.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="704.38" StopY="430.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="692.38" FontSize="12" StartY="413.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="727.1700000000001" StopY="431.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="715.1700000000001" FontSize="12" StartY="414.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="553.5699999999999" StopY="339.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="541.5699999999999" FontSize="12" StartY="322.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="507.38" StopY="338.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="495.38" FontSize="12" StartY="321.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="530.1700000000001" StopY="339.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="518.1700000000001" FontSize="12" StartY="322.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="428.57" StopY="326.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="416.57" FontSize="12" StartY="309.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="382.38" StopY="325.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="370.38" FontSize="12" StartY="308.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="405.17" StopY="326.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="393.17" FontSize="12" StartY="309.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="258.57" StopY="342.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="246.57" FontSize="12" StartY="325.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="212.38" StopY="341.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="200.38" FontSize="12" StartY="324.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="235.17" StopY="342.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="223.17" FontSize="12" StartY="325.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="348.57" StopY="570.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="336.57" FontSize="12" StartY="553.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="302.38" StopY="569.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="290.38" FontSize="12" StartY="552.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="325.17" StopY="570.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="313.17" FontSize="12" StartY="553.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="-0.4300000000000068" StopY="257.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="-12.43000000000001" FontSize="12" StartY="240.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="-46.62000000000001" StopY="256.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="-58.62000000000001" FontSize="12" StartY="239.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="-23.82999999999998" StopY="257.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="-35.82999999999998" FontSize="12" StartY="240.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="461" StartX="193" StopY="331" Z="2" StartY="357" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="620" StopY="86" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="1" Z="2" StartX="363" FontSize="20" StartY="49" AutoTime="0" FontItalic="0" Link="2" Text="线路103监控画面" FontFamily="黑体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1050.191922148616" StartX="1030.191922148616" StopY="314.4602692617129" Z="1" StartY="294.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1026.788014926651" StartX="1006.788014926651" StopY="314.1523231140554" Z="1" StartY="294.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1004" StartX="984" StopY="313.844376966398" Z="1" StartY="293.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="752.1919221486157" StartX="732.1919221486157" StopY="431.4602692617129" Z="1" StartY="411.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="728.7880149266505" StartX="708.7880149266505" StopY="431.1523231140554" Z="1" StartY="411.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="706" StartX="686" StopY="430.844376966398" Z="1" StartY="410.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="555.1919221486157" StartX="535.1919221486157" StopY="339.4602692617129" Z="1" StartY="319.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="531.7880149266505" StartX="511.7880149266505" StopY="339.1523231140554" Z="1" StartY="319.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="509" StartX="489" StopY="338.844376966398" Z="1" StartY="318.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="430.1919221486158" StartX="410.1919221486158" StopY="326.4602692617129" Z="1" StartY="306.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="406.7880149266505" StartX="386.7880149266505" StopY="326.1523231140554" Z="1" StartY="306.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="384" StartX="364" StopY="325.844376966398" Z="1" StartY="305.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="260.1919221486158" StartX="240.1919221486158" StopY="342.4602692617129" Z="1" StartY="322.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="236.7880149266505" StartX="216.7880149266505" StopY="342.1523231140554" Z="1" StartY="322.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="214" StartX="194" StopY="341.844376966398" Z="1" StartY="321.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="350.1919221486158" StartX="330.1919221486158" StopY="570.4602692617129" Z="1" StartY="550.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="326.7880149266505" StartX="306.7880149266505" StopY="570.1523231140554" Z="1" StartY="550.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="304" StartX="284" StopY="569.8443769663979" Z="1" StartY="549.8443769663979" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1.191922148615788" StartX="-18.80807785138421" StopY="257.4602692617129" Z="1" StartY="237.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-22.21198507334952" StartX="-42.21198507334952" StopY="257.1523231140554" Z="1" StartY="237.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-45" StartX="-65" StopY="256.844376966398" Z="1" StartY="236.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1026.788014926651" StartX="1006.788014926651" StopY="302.3079461476575" Z="0" StartY="282.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1004" StartX="984" StopY="302" Z="0" StartY="282" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1050.191922148616" StartX="1030.191922148616" StopY="302.6158922953149" Z="0" StartY="282.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="728.7880149266505" StartX="708.7880149266505" StopY="419.3079461476575" Z="0" StartY="399.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="706" StartX="686" StopY="419" Z="0" StartY="399" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="752.1919221486157" StartX="732.1919221486157" StopY="419.6158922953149" Z="0" StartY="399.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="531.7880149266505" StartX="511.7880149266505" StopY="327.3079461476575" Z="0" StartY="307.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="509" StartX="489" StopY="327" Z="0" StartY="307" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="555.1919221486157" StartX="535.1919221486157" StopY="327.6158922953149" Z="0" StartY="307.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="406.7880149266505" StartX="386.7880149266505" StopY="314.3079461476575" Z="0" StartY="294.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="384" StartX="364" StopY="314" Z="0" StartY="294" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="430.1919221486158" StartX="410.1919221486158" StopY="314.6158922953149" Z="0" StartY="294.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="236.7880149266505" StartX="216.7880149266505" StopY="330.3079461476575" Z="0" StartY="310.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="214" StartX="194" StopY="330" Z="0" StartY="310" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="260.1919221486158" StartX="240.1919221486158" StopY="330.6158922953149" Z="0" StartY="310.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="326.7880149266505" StartX="306.7880149266505" StopY="558.3079461476575" Z="0" StartY="538.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="304" StartX="284" StopY="558" Z="0" StartY="538" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="350.1919221486158" StartX="330.1919221486158" StopY="558.6158922953149" Z="0" StartY="538.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-22.21198507334952" StartX="-42.21198507334952" StopY="245.3079461476575" Z="0" StartY="225.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-45" StartX="-65" StopY="245" Z="0" StartY="225" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1.191922148615788" StartX="-18.80807785138421" StopY="245.6158922953149" Z="0" StartY="225.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="460" StartX="728" StopY="333" Z="-1" StartY="465" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="729" StartX="1001" StopY="465" Z="-2" StartY="247" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+        </scene>
+        <scene Name="线路104" Width="1000" Height="600" PosX="0" PosY="0" Id="5">
+            <BackColor g="0" r="0" b="0"/>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="962" StartX="962" StopY="275" Z="50" StartY="149" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1015" StopY="148" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="39" StartX="937" FontSize="12" StartY="112" AutoTime="0" FontItalic="0" Link="0" Text="10KV II" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1027" StartX="884.78" StopY="145" Z="27" StartY="145" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="6" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1039" StopY="584" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="986" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="4" Text="上一页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="982" StopY="587" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="942" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="2" Text="主页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1099" StopY="584" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="17" StartX="1046" FontSize="12" StartY="567" AutoTime="0" FontItalic="0" Link="2" Text="下一页" FontFamily="宋体" LineWidth="1" FontUnderLine="1">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="590" StartX="524" StopY="313" Z="15" StartY="152" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="221" StartX="-16" StopY="262" Z="14" StartY="449" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="221" StartX="-27" StopY="261" Z="13" StartY="152" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="539" StartX="825" StopY="456" Z="12" StartY="537" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="194" StartX="537" StopY="526" Z="11" StartY="456" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="589" StartX="542" StopY="313" Z="10" StartY="455" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="591" StartX="223" StopY="313" Z="9" StartY="260" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="962" StartX="591" StopY="276" Z="8" StartY="315" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="961" StartX="1080" StopY="276" Z="7" StartY="516" LineStyle="1" Link="0" AutoValue="0" Type="3" LineWidth="2" NodeId="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="844.5699999999999" StopY="515.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="832.5699999999999" FontSize="12" StartY="498.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="798.38" StopY="514.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="786.38" FontSize="12" StartY="497.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="821.1700000000001" StopY="515.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="809.1700000000001" FontSize="12" StartY="498.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="236.57" StopY="506.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="224.57" FontSize="12" StartY="489.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="190.38" StopY="505.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="178.38" FontSize="12" StartY="488.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="213.17" StopY="506.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="201.17" FontSize="12" StartY="489.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="563.5699999999999" StopY="507.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="551.5699999999999" FontSize="12" StartY="490.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="517.38" StopY="506.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="505.38" FontSize="12" StartY="489.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="540.1700000000001" StopY="507.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="528.1700000000001" FontSize="12" StartY="490.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="557.5699999999999" StopY="353.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="545.5699999999999" FontSize="12" StartY="336.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="511.38" StopY="352.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="499.38" FontSize="12" StartY="335.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="534.1700000000001" StopY="353.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="522.1700000000001" FontSize="12" StartY="336.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="164.57" StopY="291.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="152.57" FontSize="12" StartY="274.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="118.38" StopY="290.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="106.38" FontSize="12" StartY="273.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="141.17" StopY="291.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="129.17" FontSize="12" StartY="274.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="-11.43000000000001" StopY="433.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="-23.43000000000001" FontSize="12" StartY="416.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="-57.62000000000001" StopY="432.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="-69.62000000000001" FontSize="12" StartY="415.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="-34.82999999999998" StopY="433.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="-46.82999999999998" FontSize="12" StartY="416.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="257.57" StopY="235.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="245.57" FontSize="12" StartY="218.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="211.38" StopY="234.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="199.38" FontSize="12" StartY="217.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="234.17" StopY="235.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="222.17" FontSize="12" StartY="218.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="45.56999999999999" StopY="148.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="33.56999999999999" FontSize="12" StartY="131.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="-0.6200000000000046" StopY="147.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="-12.62000000000001" FontSize="12" StartY="130.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="22.17000000000002" StopY="148.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="10.17000000000002" FontSize="12" StartY="131.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="607.5699999999999" StopY="168.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="595.5699999999999" FontSize="12" StartY="151.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="561.38" StopY="167.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="549.38" FontSize="12" StartY="150.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="584.1700000000001" StopY="168.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="572.1700000000001" FontSize="12" StartY="151.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="656.5699999999999" StopY="292.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="644.5699999999999" FontSize="12" StartY="275.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="610.38" StopY="291.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="598.38" FontSize="12" StartY="274.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="633.1700000000001" StopY="292.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="621.1700000000001" FontSize="12" StartY="275.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1060.57" StopY="526.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="1048.57" FontSize="12" StartY="509.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1014.38" StopY="525.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="1002.38" FontSize="12" StartY="508.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="1037.17" StopY="526.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="1025.17" FontSize="12" StartY="509.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="963.5699999999999" StopY="330.46" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="951.5699999999999" FontSize="12" StartY="313.46" AutoTime="0" FontItalic="0" Link="0" Text="C" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="917.38" StopY="329.84" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="905.38" FontSize="12" StartY="312.84" AutoTime="0" FontItalic="0" Link="0" Text="A" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="940.1700000000001" StopY="330.15" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="0" Z="2" StartX="928.1700000000001" FontSize="12" StartY="313.15" AutoTime="0" FontItalic="0" Link="0" Text="B" FontFamily="宋体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="0"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item Type="10" FontStrikeOut="0" StopX="620" StopY="86" LineStyle="1" NodeId="0" AutoValue="0" Js="" FontSpacing="0" ServiceId="0" FontBlod="1" Z="2" StartX="363" FontSize="20" StartY="49" AutoTime="0" FontItalic="0" Link="2" Text="线路104监控画面" FontFamily="黑体" LineWidth="1" FontUnderLine="0">
+                <LineColor g="0" r="0" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="846.1919221486157" StartX="826.1919221486157" StopY="515.4602692617129" Z="1" StartY="495.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="822.7880149266505" StartX="802.7880149266505" StopY="515.1523231140554" Z="1" StartY="495.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="800" StartX="780" StopY="514.8443769663979" Z="1" StartY="494.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="238.1919221486158" StartX="218.1919221486158" StopY="506.4602692617129" Z="1" StartY="486.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="214.7880149266505" StartX="194.7880149266505" StopY="506.1523231140554" Z="1" StartY="486.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="192" StartX="172" StopY="505.844376966398" Z="1" StartY="485.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="565.1919221486157" StartX="545.1919221486157" StopY="507.4602692617129" Z="1" StartY="487.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="541.7880149266505" StartX="521.7880149266505" StopY="507.1523231140554" Z="1" StartY="487.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="519" StartX="499" StopY="506.844376966398" Z="1" StartY="486.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="559.1919221486157" StartX="539.1919221486157" StopY="353.4602692617129" Z="1" StartY="333.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="535.7880149266505" StartX="515.7880149266505" StopY="353.1523231140554" Z="1" StartY="333.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="513" StartX="493" StopY="352.844376966398" Z="1" StartY="332.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="166.1919221486158" StartX="146.1919221486158" StopY="291.4602692617129" Z="1" StartY="271.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="142.7880149266505" StartX="122.7880149266505" StopY="291.1523231140554" Z="1" StartY="271.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="120" StartX="100" StopY="290.844376966398" Z="1" StartY="270.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-9.808077851384212" StartX="-29.80807785138421" StopY="433.4602692617129" Z="1" StartY="413.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-33.21198507334952" StartX="-53.21198507334952" StopY="433.1523231140554" Z="1" StartY="413.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-56" StartX="-76" StopY="432.844376966398" Z="1" StartY="412.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="259.1919221486158" StartX="239.1919221486158" StopY="235.4602692617129" Z="1" StartY="215.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="235.7880149266505" StartX="215.7880149266505" StopY="235.1523231140554" Z="1" StartY="215.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="213" StartX="193" StopY="234.844376966398" Z="1" StartY="214.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="47.19192214861579" StartX="27.19192214861579" StopY="148.4602692617129" Z="1" StartY="128.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="23.78801492665048" StartX="3.788014926650476" StopY="148.1523231140554" Z="1" StartY="128.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1" StartX="-19" StopY="147.844376966398" Z="1" StartY="127.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="609.1919221486157" StartX="589.1919221486157" StopY="168.4602692617129" Z="1" StartY="148.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="585.7880149266505" StartX="565.7880149266505" StopY="168.1523231140554" Z="1" StartY="148.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="563" StartX="543" StopY="167.844376966398" Z="1" StartY="147.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="658.1919221486157" StartX="638.1919221486157" StopY="292.4602692617129" Z="1" StartY="272.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="634.7880149266505" StartX="614.7880149266505" StopY="292.1523231140554" Z="1" StartY="272.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="612" StartX="592" StopY="291.844376966398" Z="1" StartY="271.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1062.191922148616" StartX="1042.191922148616" StopY="526.4602692617129" Z="1" StartY="506.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1038.788014926651" StartX="1018.788014926651" StopY="526.1523231140554" Z="1" StartY="506.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1016" StartX="996" StopY="525.8443769663979" Z="1" StartY="505.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="965.1919221486157" StartX="945.1919221486157" StopY="330.4602692617129" Z="1" StartY="310.4602692617129" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="941.7880149266505" StartX="921.7880149266505" StopY="330.1523231140554" Z="1" StartY="310.1523231140554" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="919" StartX="899" StopY="329.844376966398" Z="1" StartY="309.844376966398" LineStyle="1" Link="0" AutoValue="0" Type="4" LineWidth="1" NodeId="0">
+                <LineColor g="255" r="0" b="0"/>
+                <BackColor g="255" r="0" a="255" b="0"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="822.7880149266505" StartX="802.7880149266505" StopY="503.3079461476575" Z="0" StartY="483.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="800" StartX="780" StopY="503" Z="0" StartY="483" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="846.1919221486157" StartX="826.1919221486157" StopY="503.6158922953149" Z="0" StartY="483.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="214.7880149266505" StartX="194.7880149266505" StopY="494.3079461476575" Z="0" StartY="474.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="192" StartX="172" StopY="494" Z="0" StartY="474" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="238.1919221486158" StartX="218.1919221486158" StopY="494.6158922953149" Z="0" StartY="474.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="541.7880149266505" StartX="521.7880149266505" StopY="495.3079461476575" Z="0" StartY="475.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="519" StartX="499" StopY="495" Z="0" StartY="475" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="565.1919221486157" StartX="545.1919221486157" StopY="495.6158922953149" Z="0" StartY="475.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="535.7880149266505" StartX="515.7880149266505" StopY="341.3079461476575" Z="0" StartY="321.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="513" StartX="493" StopY="341" Z="0" StartY="321" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="559.1919221486157" StartX="539.1919221486157" StopY="341.6158922953149" Z="0" StartY="321.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="142.7880149266505" StartX="122.7880149266505" StopY="279.3079461476575" Z="0" StartY="259.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="120" StartX="100" StopY="279" Z="0" StartY="259" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="166.1919221486158" StartX="146.1919221486158" StopY="279.6158922953149" Z="0" StartY="259.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-33.21198507334952" StartX="-53.21198507334952" StopY="421.3079461476575" Z="0" StartY="401.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-56" StartX="-76" StopY="421" Z="0" StartY="401" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="-9.808077851384212" StartX="-29.80807785138421" StopY="421.6158922953149" Z="0" StartY="401.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="235.7880149266505" StartX="215.7880149266505" StopY="223.3079461476575" Z="0" StartY="203.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="213" StartX="193" StopY="223" Z="0" StartY="203" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="259.1919221486158" StartX="239.1919221486158" StopY="223.6158922953149" Z="0" StartY="203.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="23.78801492665048" StartX="3.788014926650476" StopY="136.3079461476575" Z="0" StartY="116.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1" StartX="-19" StopY="136" Z="0" StartY="116" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="47.19192214861579" StartX="27.19192214861579" StopY="136.6158922953149" Z="0" StartY="116.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="585.7880149266505" StartX="565.7880149266505" StopY="156.3079461476575" Z="0" StartY="136.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="563" StartX="543" StopY="156" Z="0" StartY="136" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="609.1919221486157" StartX="589.1919221486157" StopY="156.6158922953149" Z="0" StartY="136.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="634.7880149266505" StartX="614.7880149266505" StopY="280.3079461476575" Z="0" StartY="260.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="612" StartX="592" StopY="280" Z="0" StartY="260" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="658.1919221486157" StartX="638.1919221486157" StopY="280.6158922953149" Z="0" StartY="260.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1038.788014926651" StartX="1018.788014926651" StopY="514.3079461476575" Z="0" StartY="494.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1016" StartX="996" StopY="514" Z="0" StartY="494" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="1062.191922148616" StartX="1042.191922148616" StopY="514.6158922953149" Z="0" StartY="494.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="941.7880149266505" StartX="921.7880149266505" StopY="318.3079461476575" Z="0" StartY="298.3079461476575" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="919" StartX="899" StopY="318" Z="0" StartY="298" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+            <item ServiceId="0" Js="" AutoTime="0" StopX="965.1919221486157" StartX="945.1919221486157" StopY="318.6158922953149" Z="0" StartY="298.6158922953149" LineStyle="1" Link="0" AutoValue="0" Type="5" LineWidth="1" NodeId="0">
+                <LineColor g="170" r="0" b="255"/>
+                <BackColor g="170" r="0" a="255" b="255"/>
+            </item>
+        </scene>
+    </scenes>
+    <services>
+        <service Name="故障指示器服务" NetPort="5057" Port="1" NetIp="192.168.1.22" DataBase="0" Id="1" AgreeMent="4"/>
+    </services>
+</scada>

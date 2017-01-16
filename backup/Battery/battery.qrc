@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>pic/g20.png</file>
+        <file>pic/g30.png</file>
+        <file>pic/g40.png</file>
+        <file>pic/g50.png</file>
+        <file>pic/g60.png</file>
+        <file>pic/g70.png</file>
+        <file>pic/g80.png</file>
+        <file>pic/g90.png</file>
+        <file>pic/g100.png</file>
+        <file>pic/r10.png</file>
+        <file>pic/r20.png</file>
+        <file>pic/r30.png</file>
+        <file>pic/r40.png</file>
+        <file>pic/r50.png</file>
+        <file>pic/r60.png</file>
+        <file>pic/r70.png</file>
+        <file>pic/r80.png</file>
+        <file>pic/r90.png</file>
+    </qresource>
+</RCC>

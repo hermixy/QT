@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+   <head>
+       <meta charset="utf-8">
+   </head>
+   <body style="height: 100%; margin: 0">
+       <div id="container" style="height: 100%"></div>
+       <script type="text/javascript" src="dist\echarts.js"></script>
+       <script type="text/javascript" src="dist\extension\dataTool.min.js"></script>
+       <script type="text/javascript" src="dist\extension\bmap.min.js"></script>
+       <script type="text/javascript">
+var dom = document.getElementById("container");
+var myChart = echarts.init(dom);
+
+option = {
+      title : {
+        text: '清河WIFI区域内手机品牌使用率统计',
+        subtext: '五彩城WIFI热点',
+        x:'center'
+    },
+    tooltip: {
+        trigger: 'item',
+        formatter: "{a} <br/>{b} : {c} ({d}%)"
+    },
+    legend: {
+        orient: 'vertical',
+        x: 'left',
+		top: '50',
+        data: ['苹果', '华为', '小米', 'vivo'],
+        formatter: function(name) {
+            var oa = option.series[0].data;
+            var num = oa[0].value + oa[1].value + oa[2].value + oa[3].value;
+            for (var i = 0; i < option.series[0].data.length; i++) {
+                if (name == oa[i].name) {
+                    return name + '     ' + oa[i].value + '     ' + (oa[i].value / num * 100).toFixed(2) + '%';
+                }
+            }
+        }
+    },
+    series: [{
+        name: '手机使用比例分析',
+        type: 'pie',
+        radius: '55%',
+        center: ['40%', '50%'],
+        data: [{
+            value: 335,
+            name: '苹果'
+        }, {
+            value: 310,
+            name: '华为'
+        }, {
+            value: 234,
+            name: '小米'
+        }, {
+            value: 135,
+            name: 'vivo'
+        }],
+        itemStyle: {
+            emphasis: {
+                shadowBlur: 10,
+                shadowOffsetX: 0,
+                shadowColor: 'rgba(0, 0, 0, 0.5)'
+            }
+        },
+        itemStyle: {
+            normal: {
+                label: {
+                    show: true,
+                    //	                            position:'inside',
+                    formatter: '{b} : {c} ({d}%)'
+                }
+            },
+            labelLine: {
+                show: true
+            }
+        }
+    }]
+};
+setInterval(function () {
+
+myChart.setOption({
+	series: [{
+		data: (function(){
+		var data = [];
+		data=[
+                {value:Math.round(Math.random() * 1000), name:'苹果'},
+                {value:Math.round(Math.random() * 1000), name:'华为'},
+                {value:Math.round(Math.random() * 1000), name:'小米'},
+                {value:Math.round(Math.random() * 1000), name:'vivo'},
+            ];
+        return data;
+             })()   
+        }]
+    });
+}, 1000);
+
+if (option && typeof option === "object") {
+    myChart.setOption(option, true);
+}
+       </script>
+   </body>
+</html>

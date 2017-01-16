@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>pic/left.png</file>
+        <file>pic/right.png</file>
+        <file>pic/stop.png</file>
+        <file>pic/normal.png</file>
+        <file>pic/red0.png</file>
+        <file>pic/red1.png</file>
+        <file>pic/start.png</file>
+    </qresource>
+</RCC>

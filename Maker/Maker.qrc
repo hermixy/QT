@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/line/StyleCustomDashLine.png</file>
+        <file>pic/line/StyleDashDotDotLine.png</file>
+        <file>pic/line/StyleDashDotLine.png</file>
+        <file>pic/line/StyleDashLine.png</file>
+        <file>pic/line/StyleDotLine.png</file>
+        <file>pic/line/StyleNoPen.png</file>
+        <file>pic/line/StyleSolidLine.png</file>
+        <file>pic/edit/Copy.png</file>
+        <file>pic/edit/Cut.png</file>
+        <file>pic/edit/Del.png</file>
+        <file>pic/edit/Paste.png</file>
+        <file>pic/edit/Redo.png</file>
+        <file>pic/edit/Style.png</file>
+        <file>pic/edit/Undo.png</file>
+        <file>pic/draw/Button.png</file>
+        <file>pic/draw/Ellipse.png</file>
+        <file>pic/draw/Free.png</file>
+        <file>pic/draw/Line.png</file>
+        <file>pic/draw/Path.png</file>
+        <file>pic/draw/Pixmap.png</file>
+        <file>pic/draw/Point.png</file>
+        <file>pic/draw/Polygon.png</file>
+        <file>pic/draw/Rect.png</file>
+        <file>pic/draw/Table.png</file>
+        <file>pic/draw/Text.png</file>
+        <file>pic/draw/TextBox.png</file>
+        <file>pic/draw/Arc.png</file>
+        <file>pic/draw/ValueText.png</file>
+        <file>pic/draw/Clock.png</file>
+        <file>pic/draw/ProcessBar.png</file>
+        <file>pic/draw/Light.png</file>
+        <file>pic/graph/AlignBottom.png</file>
+        <file>pic/graph/AlignLeft.png</file>
+        <file>pic/graph/AlignRight.png</file>
+        <file>pic/graph/AlignTop.png</file>
+        <file>pic/graph/Down.png</file>
+        <file>pic/graph/Left.png</file>
+        <file>pic/graph/Right.png</file>
+        <file>pic/graph/Up.png</file>
+        <file>pic/graph/MoveToBottom.png</file>
+        <file>pic/graph/MoveToTop.png</file>
+        <file>pic/graph/Merge.png</file>
+        <file>pic/draw/Curve.png</file>
+    </qresource>
+</RCC>

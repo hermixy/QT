@@ -1,0 +1,8 @@
+[General]
+num=1
+
+[logins]
+size=1
+1\permission=true
+1\userName=admin
+1\password=@ByteArray(9996535e07258a7bbfd8b132435c5962)

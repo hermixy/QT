@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item Link="0" Type="4" NodeId="0" LineStyle="1" LineWidth="1" Z="1" StopX="348" StopY="179" StartX="328" StartY="159" ServiceId="0" Js="">
+        <LineColor g="255" r="0" b="0"/>
+        <BackColor g="255" r="0" a="255" b="0"/>
+    </item>
+    <item FontBlod="0" LineWidth="1" FontSize="12" StopX="347" StopY="179" FontItalic="0" Link="0" LineStyle="1" Text="A" FontUnderLine="0" FontFamily="宋体" FontStrikeOut="0" FontSpacing="0" NodeId="0" Z="2" Type="10" StartX="335" StartY="162" Js="" ServiceId="0">
+        <LineColor g="255" r="255" b="255"/>
+        <BackColor g="0" r="0" a="255" b="0"/>
+    </item>
+    <item Link="0" Type="5" NodeId="0" LineStyle="1" LineWidth="1" Z="0" StopX="348" StopY="165" StartX="328" StartY="145" ServiceId="0" Js="">
+        <LineColor g="170" r="0" b="255"/>
+        <BackColor g="170" r="0" a="255" b="255"/>
+    </item>
+</items>

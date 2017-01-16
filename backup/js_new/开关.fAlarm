@@ -1,0 +1,10 @@
+function fAlarm(Item)
+{
+var Value = Item.fGetValue();
+
+if(Value > 0)
+{
+	Item.fStartAlarm();
+}
+
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item Link="0" Type="1" NodeId="0" LineStyle="1" LineWidth="1" Z="16" StopX="191.32" StopY="388" StartX="156.68" StartY="368" ServiceId="0" Js="">
+        <LineColor g="255" r="255" b="255"/>
+        <BackColor g="0" r="0" a="255" b="0"/>
+        <item Link="0" Type="3" NodeId="0" LineStyle="1" LineWidth="1" Z="12" StopX="174" StopY="368" StartX="156.68" StartY="388" ServiceId="0" Js="">
+            <LineColor g="255" r="255" b="255"/>
+            <BackColor g="0" r="0" a="255" b="0"/>
+        </item>
+        <item Link="0" Type="3" NodeId="0" LineStyle="1" LineWidth="1" Z="13" StopX="191.32" StopY="388" StartX="174" StartY="368" ServiceId="0" Js="">
+            <LineColor g="255" r="255" b="255"/>
+            <BackColor g="0" r="0" a="255" b="0"/>
+        </item>
+        <item Link="0" Type="3" NodeId="0" LineStyle="1" LineWidth="1" Z="14" StopX="191.32" StopY="388" StartX="156.68" StartY="388" ServiceId="0" Js="">
+            <LineColor g="255" r="255" b="255"/>
+            <BackColor g="0" r="0" a="255" b="0"/>
+        </item>
+    </item>
+    <item Link="0" Type="4" NodeId="0" LineStyle="1" LineWidth="1" Z="6" StopX="199" StopY="401" StartX="149" StartY="351" ServiceId="0" Js="">
+        <LineColor g="255" r="255" b="255"/>
+        <BackColor g="0" r="0" a="0" b="0"/>
+    </item>
+    <item Link="0" Type="3" NodeId="0" LineStyle="1" LineWidth="1" Z="17" StopX="174.6904284765383" StopY="422.6643766664597" StartX="174.6904284765383" StartY="402.6643766664597" ServiceId="0" Js="">
+        <LineColor g="255" r="255" b="255"/>
+        <BackColor g="0" r="0" a="255" b="0"/>
+    </item>
+    <item Link="0" Type="4" NodeId="0" LineStyle="1" LineWidth="1" Z="5" StopX="199" StopY="375" StartX="149" StartY="325" ServiceId="0" Js="">
+        <LineColor g="255" r="255" b="255"/>
+        <BackColor g="0" r="0" a="255" b="0"/>
+    </item>
+    <item Link="0" Type="3" NodeId="0" LineStyle="1" LineWidth="1" Z="17" StopX="174.6904284765383" StopY="324.6500495821737" StartX="174.6904284765383" StartY="304.6500495821737" ServiceId="0" Js="">
+        <LineColor g="255" r="255" b="255"/>
+        <BackColor g="0" r="0" a="255" b="0"/>
+    </item>
+    <item Link="0" Type="1" NodeId="0" LineStyle="1" LineWidth="1" Z="15" StopX="191.32" StopY="367" StartX="156.68" StartY="337" ServiceId="0" Js="">
+        <LineColor g="255" r="255" b="255"/>
+        <BackColor g="0" r="0" a="255" b="0"/>
+        <item Link="0" Type="3" NodeId="0" LineStyle="1" LineWidth="1" Z="12" StopX="174" StopY="347" StartX="156.68" StartY="337" ServiceId="0" Js="">
+            <LineColor g="255" r="255" b="255"/>
+            <BackColor g="0" r="0" a="255" b="0"/>
+        </item>
+        <item Link="0" Type="3" NodeId="0" LineStyle="1" LineWidth="1" Z="13" StopX="174" StopY="347" StartX="191.32" StartY="337" ServiceId="0" Js="">
+            <LineColor g="255" r="255" b="255"/>
+            <BackColor g="0" r="0" a="255" b="0"/>
+        </item>
+        <item Link="0" Type="3" NodeId="0" LineStyle="1" LineWidth="1" Z="14" StopX="174" StopY="367" StartX="174" StartY="347" ServiceId="0" Js="">
+            <LineColor g="255" r="255" b="255"/>
+            <BackColor g="0" r="0" a="255" b="0"/>
+        </item>
+    </item>
+</items>

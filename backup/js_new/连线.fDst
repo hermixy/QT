@@ -1,0 +1,15 @@
+function fDst(Item)
+{
+if(Item.fGetLinkageRecv() == Item.fGetLinkageActive())
+{
+	Item.fSetLineColor(255, 0, 0);
+	Item.fSetBackGroundColor(255, 0, 0);
+}
+else
+{
+	Item.fSetLineColor(0, 255, 0);
+	Item.fSetBackGroundColor(0, 255, 0);
+}
+
+Item.fUpdate();
+}

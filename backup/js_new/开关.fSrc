@@ -1,0 +1,14 @@
+function fSrc(Item)
+{
+var Value = Item.fGetValue();
+
+if(Value > 0)
+{
+	Item.fSendLinkage(true);
+} 
+else 
+{
+	Item.fSendLinkage(false);
+}
+
+}

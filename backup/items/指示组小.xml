@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item Link="0" Type="5" NodeId="0" LineStyle="1" LineWidth="1" Z="0" StopX="394.1919221486158" StopY="165.6158922953149" StartX="374.1919221486158" StartY="145.6158922953149" ServiceId="0" Js="">
+        <LineColor g="170" r="0" b="255"/>
+        <BackColor g="170" r="0" a="255" b="255"/>
+    </item>
+    <item Link="0" Type="5" NodeId="0" LineStyle="1" LineWidth="1" Z="0" StopX="348" StopY="165" StartX="328" StartY="145" ServiceId="0" Js="">
+        <LineColor g="170" r="0" b="255"/>
+        <BackColor g="170" r="0" a="255" b="255"/>
+    </item>
+    <item FontBlod="0" LineWidth="1" FontSize="12" StopX="369.17" StopY="177.15" FontItalic="0" Link="0" LineStyle="1" Text="B" FontUnderLine="0" FontFamily="宋体" FontStrikeOut="0" FontSpacing="0" NodeId="0" Z="2" Type="10" StartX="357.17" StartY="160.15" Js="" ServiceId="0">
+        <LineColor g="0" r="0" b="0"/>
+        <BackColor g="0" r="0" a="255" b="0"/>
+    </item>
+    <item Link="0" Type="5" NodeId="0" LineStyle="1" LineWidth="1" Z="0" StopX="370.7880149266505" StopY="165.3079461476575" StartX="350.7880149266505" StartY="145.3079461476575" ServiceId="0" Js="">
+        <LineColor g="170" r="0" b="255"/>
+        <BackColor g="170" r="0" a="255" b="255"/>
+    </item>
+    <item FontBlod="0" LineWidth="1" FontSize="12" StopX="346.38" StopY="176.84" FontItalic="0" Link="0" LineStyle="1" Text="A" FontUnderLine="0" FontFamily="宋体" FontStrikeOut="0" FontSpacing="0" NodeId="0" Z="2" Type="10" StartX="334.38" StartY="159.84" Js="" ServiceId="0">
+        <LineColor g="0" r="0" b="0"/>
+        <BackColor g="0" r="0" a="255" b="0"/>
+    </item>
+    <item FontBlod="0" LineWidth="1" FontSize="12" StopX="392.57" StopY="177.46" FontItalic="0" Link="0" LineStyle="1" Text="C" FontUnderLine="0" FontFamily="宋体" FontStrikeOut="0" FontSpacing="0" NodeId="0" Z="2" Type="10" StartX="380.57" StartY="160.46" Js="" ServiceId="0">
+        <LineColor g="0" r="0" b="0"/>
+        <BackColor g="0" r="0" a="255" b="0"/>
+    </item>
+    <item Link="0" Type="4" NodeId="0" LineStyle="1" LineWidth="1" Z="1" StopX="348" StopY="176.844376966398" StartX="328" StartY="156.844376966398" ServiceId="0" Js="">
+        <LineColor g="255" r="0" b="0"/>
+        <BackColor g="255" r="0" a="255" b="0"/>
+    </item>
+    <item Link="0" Type="4" NodeId="0" LineStyle="1" LineWidth="1" Z="1" StopX="370.7880149266505" StopY="177.1523231140554" StartX="350.7880149266505" StartY="157.1523231140554" ServiceId="0" Js="">
+        <LineColor g="255" r="0" b="0"/>
+        <BackColor g="255" r="0" a="255" b="0"/>
+    </item>
+    <item Link="0" Type="4" NodeId="0" LineStyle="1" LineWidth="1" Z="1" StopX="394.1919221486158" StopY="177.4602692617129" StartX="374.1919221486158" StartY="157.4602692617129" ServiceId="0" Js="">
+        <LineColor g="255" r="0" b="0"/>
+        <BackColor g="255" r="0" a="255" b="0"/>
+    </item>
+</items>

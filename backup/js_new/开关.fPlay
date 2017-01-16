@@ -1,0 +1,17 @@
+function fPlay(Item)
+{
+var Value = Item.fGetValue();
+
+if(Value > 0)
+{
+	Item.fSetLineColor(255, 0, 0);
+	Item.fSetBackGroundColor(255, 0, 0);
+} 
+else 
+{
+	Item.fSetLineColor(0, 255, 0);
+	Item.fSetBackGroundColor(0, 255, 0);
+}
+
+Item.fUpdate();
+}

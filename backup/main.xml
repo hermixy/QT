@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scada>
+    <server Mode="1" Ip="192.168.0.1" Port="6066"/>
+    <db User="root" Type="0" Host="127.0.0.1" PassWd="root" DBName="znkg"/>
+    <scenes Host="2">
+        <scene Width="1000" PosX="0" Id="2" PosY="0" Height="600" Name="主接线图">
+            <BackColor g="0" r="0" b="0"/>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="84" StartY="233" Z="39" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="199" StopY="260" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="10KV长25开关" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="811" StartY="236" Z="39" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="923" StopY="264" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="10KV龙10开关" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="6" AutoTime="0" NodeId="0" AutoType="-1" Type="3" StartX="705" StartY="310" Z="27" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="825" StopY="310" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="6" AutoTime="0" NodeId="0" AutoType="-1" Type="3" StartX="153" StartY="311" Z="27" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="273" StopY="311" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="0" AutoType="-1" Type="3" StartX="215.02" StartY="151" Z="17" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="215.02" StopY="210.48" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="0" AutoType="-1" Type="3" StartX="215.02" StartY="255" Z="17" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="215.02" StopY="308.49" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="0" AutoType="-1" Type="3" StartX="768.47" StartY="150" Z="17" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="768.47" StopY="212.01" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="0" AutoType="-1" Type="3" StartX="768.47" StartY="257" Z="17" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="768.47" StopY="310.02" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="0" AutoType="-1" Type="5" StartX="206" StartY="210" Z="7" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="224" StopY="254" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="0" AutoType="-1" Type="5" StartX="759.5549289573067" StartY="212.4450710426934" Z="7" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="777.5549289573067" StopY="256.4450710426934" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="7" AutoType="-1" Type="5" StartX="672" StartY="442" Z="7" LineStyle="1" Hint="经度 7 维度 7" JsLinkageSendName="" AlarmEnable="1" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="故障指示器(值).js" StopX="716" StopY="460" ServiceId="1" Link="0" JsAlarmName="故障指示器(报警).js">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="6" AutoType="-1" Type="5" StartX="592" StartY="442" Z="7" LineStyle="1" Hint="经度 6 维度 6" JsLinkageSendName="" AlarmEnable="1" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="故障指示器(值).js" StopX="636" StopY="460" ServiceId="1" Link="0" JsAlarmName="故障指示器(报警).js">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="5" AutoType="-1" Type="5" StartX="512" StartY="442" Z="7" LineStyle="1" Hint="经度 5 维度 5" JsLinkageSendName="" AlarmEnable="1" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="故障指示器(值).js" StopX="556" StopY="460" ServiceId="1" Link="0" JsAlarmName="故障指示器(报警).js">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="4" AutoType="-1" Type="5" StartX="432" StartY="442" Z="7" LineStyle="1" Hint="经度 4 维度 4" JsLinkageSendName="" AlarmEnable="1" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="故障指示器(值).js" StopX="476" StopY="460" ServiceId="1" Link="0" JsAlarmName="故障指示器(报警).js">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="2" LineWidth="2" AutoTime="0" NodeId="3" AutoType="-1" Type="5" StartX="352" StartY="442" Z="7" LineStyle="1" Hint="经度 3 维度 3" JsLinkageSendName="故障指示器(源).js" AlarmEnable="1" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="故障指示器(值).js" StopX="396" StopY="460" ServiceId="1" Link="0" JsAlarmName="故障指示器(报警).js">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="8" AutoType="-1" Type="5" StartX="759" StartY="357" Z="7" LineStyle="1" Hint="经度 8 维度 8" JsLinkageSendName="" AlarmEnable="1" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="故障指示器(值).js" StopX="777" StopY="401" ServiceId="1" Link="0" JsAlarmName="故障指示器(报警).js">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="2" AutoType="-1" Type="5" StartX="272" StartY="442" Z="7" LineStyle="1" Hint="经度 2 维度 2" JsLinkageSendName="" AlarmEnable="1" AutoValue="0" mJsLinkageActiveName="故障指示器(目标).js" LinkageActive="3" JsValueName="故障指示器(值).js" StopX="316" StopY="460" ServiceId="1" Link="0" JsAlarmName="故障指示器(报警).js">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="1" LineWidth="2" AutoTime="0" NodeId="1" AutoType="-1" Type="5" StartX="206" StartY="360" Z="7" LineStyle="1" Hint="经度 1 维度 1" JsLinkageSendName="故障指示器(源).js" AlarmEnable="1" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="故障指示器(值).js" StopX="224" StopY="404" ServiceId="1" Link="0" JsAlarmName="故障指示器(报警).js">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="747" StartY="130" Z="4" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="795" StopY="156" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="龙湖变" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="191" StartY="127" Z="4" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="239" StopY="153" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="长征变" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="883" StartY="550" Z="4" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="1128" StopY="619" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="开关无颜色表示未安装智能开关" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="882" StartY="518" Z="3" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="1122" StopY="569" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="开关为绿色表示分闸" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="20" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="323" StartY="54" Z="2" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="655" StopY="95" FontFamily="黑体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="安徽蚌埠智能开关监控图" JsAlarmName="" FontBlod="1">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="0" AutoType="-1" Type="3" StartX="215" StartY="311" Z="1" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="215" StopY="451" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="882" StartY="484" Z="1" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="1130" StopY="523" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="开关为红色表示合闸" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="274" StartY="420" Z="-1" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="344" StopY="451" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="2510B" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="354" StartY="420" Z="-2" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="424" StopY="451" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="2510C" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="434" StartY="420" Z="-3" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="504" StopY="451" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="2510D" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="514" StartY="420" Z="-4" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="584" StopY="451" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="2510E" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="594" StartY="420" Z="-5" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="664" StopY="451" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="2510F" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="673" StartY="420" Z="-6" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="743" StopY="451" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="2510G" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="0" AutoType="-1" Type="3" StartX="215" StartY="451" Z="-7" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="768" StopY="451" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" LineWidth="2" AutoTime="0" NodeId="0" AutoType="-1" Type="3" StartX="768" StartY="311" Z="-8" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" JsValueName="" StopX="768" StopY="451" ServiceId="0" Link="0" JsAlarmName="">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="788" StartY="371" Z="-9" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="858" StopY="402" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="2510H" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+            <item LinkageSend="0" FontSize="12" LineWidth="1" AutoTime="0" NodeId="0" AutoType="-1" Type="10" StartX="158" StartY="374" Z="-10" LineStyle="1" Hint="" JsLinkageSendName="" AlarmEnable="0" AutoValue="0" mJsLinkageActiveName="" LinkageActive="0" FontItalic="0" JsValueName="" FontUnderLine="0" StopX="228" StopY="405" FontFamily="宋体" FontStrikeOut="0" ServiceId="0" Link="0" FontSpacing="0" Text="2510A" JsAlarmName="" FontBlod="0">
+                <LineColor g="255" r="255" b="255"/>
+                <BackColor g="0" r="0" a="255" b="0"/>
+            </item>
+        </scene>
+    </scenes>
+    <services>
+        <service NetIp="192.168.1.22" AgreeMent="5" Id="1" NetPort="5057" Name="智能开关服务" Port="1"/>
+    </services>
+    <Linkages>
+        <linkage SrcServiceId="1" DstServiceId="1" DstNodeId="2" SrcNodeId="1"/>
+        <linkage SrcServiceId="1" DstServiceId="1" DstNodeId="2" SrcNodeId="3"/>
+    </Linkages>
+</scada>

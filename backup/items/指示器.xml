@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item StopX="354" StopY="185" Link="0" Type="4" LineStyle="1" LineWidth="1" StartX="328" StartY="159" Js="故障指示器.js" NodeId="1" Z="1" ServiceId="1">
+        <LineColor r="0" b="0" g="255"/>
+        <BackColor r="0" a="255" b="0" g="255"/>
+    </item>
+    <item StopX="354" StopY="171" Link="0" Type="5" LineStyle="1" LineWidth="1" StartX="328" StartY="145" Js="" NodeId="0" Z="0" ServiceId="0">
+        <LineColor r="0" b="255" g="170"/>
+        <BackColor r="0" a="255" b="255" g="170"/>
+    </item>
+</items>
